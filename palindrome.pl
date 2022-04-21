@@ -1,0 +1,1 @@
+reverselist(A) :- reverse(A,Result),  Result = A.
